@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dossantos-lukombo
 - 👀 I’m interested in coding, tech in general, sport
 - 🌱 I’m currently learning CI/CD, Python for AI, Golang
-- 📫 How to reach me : sanstos.lukombo918@gmail.com
+- 📫 How to reach me : santos.lukombo918@gmail.com
 - ⚡ Fun fact: I started to code at 30 years old
 
 <!---
