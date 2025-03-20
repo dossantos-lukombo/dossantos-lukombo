@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dossantos-lukombo
-- 👀 I’m interested in coding, tech in general, sport
+- 👀 I’m interested in coding, tech in general, sport (football, F1, Tennis), Mangas/Anime (OnePiece, SNK, HxH, MHA)
 - 🌱 I’m currently learning CI/CD, Python for AI, Golang
 - 📫 How to reach me : dossantos.lukombo918@gmail.com
 - ⚡ Fun fact: I started to code at 30 years old
